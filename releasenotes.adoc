@@ -1,0 +1,11 @@
+---
+permalink: releasenotes.html 
+sidebar: sidebar 
+keywords: release, notes, new, features, fixed, issues, known, limitations, nfs, vmware, vaai, netapp, plugin 
+summary: Describe nuevas funciones, notas de actualización, problemas solucionados, limitaciones conocidas y problemas conocidos. 
+---
+= Notas de la versión del plugin de NetApp NFS para VMware VAAI
+:allow-uri-read: 
+
+
+La link:https://library.netapp.com/ecm/ecm_download_file/ECMLP2875174["Notas de la versión del plugin de NetApp NFS para VMware VAAI"^] describa las nuevas funciones, las notas de actualización, los problemas solucionados, las limitaciones conocidas y los problemas conocidos.
